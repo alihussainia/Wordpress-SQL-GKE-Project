@@ -11,7 +11,7 @@ cat $WORKING_DIR/wordpress_cloudsql.yaml.template | envsubst > \
 ```bash
 kubectl create -f $WORKING_DIR/wordpress_cloudsql.yaml
 ```
-3. Watch the deploymentstatus using:
+3. Watch the deployment status using:
 ```bash
 kubectl get pod -l app=wordpress --watch
 ```
