@@ -17,4 +17,10 @@ Note: Replace `external-ip-address` with the external-ip noted in the task-7
 http://external-ip-address
 ```
 
+# Winding up the Project
+To avoid incurring charges to our Google Cloud account for the resources used in this project, we will delete our project and thus the containing resources with it using the following steps:
+
+1. Visit to the [Manage resources page](https://console.cloud.google.com/cloud-resource-manager?authuser=4&supportedpurview=project).
+2. Select the project that you want to delete, and then click on options and select Delete.
+3. In the dialog, type the project ID, and then click Shut down to delete the project.
  
