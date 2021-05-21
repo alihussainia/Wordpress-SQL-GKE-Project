@@ -13,3 +13,5 @@ gcloud container clusters create $CLUSTER_NAME \
     --no-issue-client-certificate --enable-ip-alias --metadata \
     disable-legacy-endpoints=true
 ```
+
+Reference: https://cloud.google.com/sdk/gcloud/reference/container/clusters/create#
