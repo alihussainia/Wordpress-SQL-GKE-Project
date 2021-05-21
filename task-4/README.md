@@ -28,5 +28,9 @@ export CLOUD_SQL_PASSWORD=$(openssl rand -base64 18)
 gcloud sql users create wordpress --host=% --instance $INSTANCE_NAME \
     --password $CLOUD_SQL_PASSWORD
 ```
+7. Let's see the `password` using:
+```bash
+echo $CLOUD_SQL_PASSWORD
+```
 Note:
 If you close your Cloud Shell session, you lose the password. Make a note of the password because you will need it later.
