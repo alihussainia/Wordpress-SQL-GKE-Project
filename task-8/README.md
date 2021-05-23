@@ -1,6 +1,6 @@
 # Exposing the WordPress service
 
-In task-7, we will follow these steps:
+In task-7, we will expose WordPress service using these steps:
 
 1. Create a Service of type:LoadBalancer using:
 ```bash
