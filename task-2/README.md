@@ -1,5 +1,5 @@
 
-# Task#1: Setting up `Environment`:
+# Setting up `Environment`:
 In this task-1, we are going to set up a working environment for our project using the following steps:
 
 1. Enable the GKE and Cloud SQL Admin APIs using:
