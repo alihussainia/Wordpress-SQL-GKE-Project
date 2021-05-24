@@ -1,6 +1,6 @@
 # Creating `Service Account` and `Secrets`
 
-In task-5, we will follow these steps:
+In task-6, we will follow these steps:
 
 1. Create a service account using:
 ```bash
