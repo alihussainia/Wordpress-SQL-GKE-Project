@@ -1,6 +1,6 @@
 
 # Setting up `Environment`:
-In this task-1, we are going to set up a working environment for our project using the following steps:
+In this task-2, we are going to set up a working environment for our project using the following steps:
 
 1. Enable the GKE and Cloud SQL Admin APIs using:
 ```bash
