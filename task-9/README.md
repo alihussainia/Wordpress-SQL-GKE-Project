@@ -1,6 +1,6 @@
 # Setting up WordPress blog
 
-In task-8, we will follow these steps:
+In task-9, we will follow these steps:
 
 1. Open a new tab in the browser and visit:
 ```browser
