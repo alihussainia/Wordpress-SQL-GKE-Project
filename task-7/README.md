@@ -1,6 +1,6 @@
 # Deploy WordPress
 
-In task-6, we are going to follow these steps:
+In task-7, we are going to follow these steps:
 
 1. Prepare the wordpress_cloudsql.yaml file using:
 ```bash
