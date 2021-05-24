@@ -1,5 +1,7 @@
 # Creating GKE Cluster
 
+In the task-3, we are going to follow these steps:
+
 1. Set the CLUSTER_NAME environment variable using:
 ```bash
 export CLUSTER_NAME=wordpress-project
