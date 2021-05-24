@@ -1,4 +1,4 @@
-# Configuring a `Service Account` and Creating `Secrets`
+# Creating `Service Account` and `Secrets`
 
 In task-5, we will follow these steps:
 
