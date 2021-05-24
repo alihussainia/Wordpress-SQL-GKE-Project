@@ -1,6 +1,6 @@
 # Creating a PV and PVC
 
-In task-3, we will follow these steps:
+In task-4, we will follow these steps:
 
 1. Deploy the `PVC` manifest for Wordpress using:
 ```bash
