@@ -32,5 +32,5 @@ gcloud sql users create wordpress --host=% --instance $INSTANCE_NAME \
 ```bash
 echo $CLOUD_SQL_PASSWORD
 ```
-Note:
+**Note**:
 If you close your Cloud Shell session, you lose the password. Make a note of the password because you will need it later.
