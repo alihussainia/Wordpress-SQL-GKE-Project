@@ -1,6 +1,6 @@
 # Create a Cloud SQL instance
 
-In task-4, we will follow these steps:
+In task-5, we will follow these steps:
 
 1. Set the INSTANCE_NAME environment variable using:
 ```bash
