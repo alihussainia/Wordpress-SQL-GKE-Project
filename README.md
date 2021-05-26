@@ -8,12 +8,13 @@ This project shows how to set up a single-replica WordPress deployment on Google
 2. Enabled Billing.
 
 # Tasks
-1. Set-up environment.
-2. Create a 3 node GKE cluster.
-3. Create a PV and a PVC.
-4. Create a Cloud SQL instance.
-5. Configure a Service Account & Create Secrets.
-6. Deploy WordPress.
-7. Expose the WordPress service.
-8. Set-up your WordPress blog.
-9. Wind up the Project. 
+1. Project Creation.
+2. Set-up environment.
+3. Create a 3 node GKE cluster.
+4. Create a PV and a PVC.
+5. Create a Cloud SQL instance.
+6. Configure a Service Account & Create Secrets.
+7. Deploy WordPress.
+8. Expose the WordPress service.
+9. Set-up your WordPress blog.
+10. Wind up the Project. 
